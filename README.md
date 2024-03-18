@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @markdagosta
-- 👀 I’m interested in SQL Server, Excel/VBA, UIPath, Flutter
-- 🌱 I’m currently learning UIPath, Flutter
-- 💞️ I’m looking to collaborate on Flutter
+- 👀 I’m interested in SQL Server, Excel/VBA, ActiveBatch
+- 🌱 I’m currently learning ActiveBatch
+- 💞️ I’m looking to collaborate on SQL Server
 - 📫 How to reach me: mark.dagosta@gmail.com
 
 <!---
