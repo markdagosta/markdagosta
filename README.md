@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @markdagosta
-- 👀 I’m interested in SQL Server, Excel/VBA, ActiveBatch
-- 🌱 I’m currently learning ActiveBatch
+- 👀 I’m interested in SQL Server, Excel/VBA
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on SQL Server
-- 📫 How to reach me: mark.dagosta@gmail.com
+- 📫 How to reach me: marak60@protonmail.com
 
 <!---
 markdagosta/markdagosta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
