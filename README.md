@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @markdagosta
-- 👀 I’m interested in SQL Server, Excel/VBA
+- 👀 I’m interested in SQL Server, Excel/VBA, OpenAI API
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on SQL Server
+- 💞️ I’m looking to collaborate on OpenAI API
 - 📫 How to reach me: marak60@protonmail.com
 
 <!---
